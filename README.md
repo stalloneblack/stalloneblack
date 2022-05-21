@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stalloneblack
 - 👀 I’m interested in tous ce qui a trait a l'informatique
-- 🌱 I’m currently learning le developpement web frot end
+- 🌱 I’m currently learning le developpement web front end
 - 💞️ I’m looking to collaborate on des projets stimuliant 
 - 📫 How to reach me : je suis disposnible sur sarahstallonebey@gmail.com 
 <!---
